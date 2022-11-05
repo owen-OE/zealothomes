@@ -1,8 +1,8 @@
-# Real-Estate-Php
+# Zealot homes-Php
 
 
 
-Realestate Management system
+Realestate Management system for Zealot Homes
 
 This is a ready to use web application for managing Real Estate System. the application is built on PHP and Mysql, its interface is very user friendly.
 
